@@ -3,12 +3,12 @@
   let kittens = ["Milo", "Otis", "Garfield"];
 //console.log(kittens);
 
+/*
 function destructivelyAppendKitten(name) {
 	kittens.push(name);
 }
 //pends a kitten to the end of the
 
-/*
 function destructivelyPrependKitten(name) {
 	kittens.unshift(name);
  }
