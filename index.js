@@ -13,4 +13,3 @@ function destructivelyPrependKitten(nameX) {
 	kittens.unshift(nameX);
  }
  //prepends a kitten to the beginning of the kitt
-
